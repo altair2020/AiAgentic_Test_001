@@ -1,0 +1,744 @@
+2026-03-03T12:46:12.818Z|0x373c|[Licensing::Module] Trying to connect to existing licensing client channel...
+2026-03-03T12:46:12.818Z|0xc54|Built from '6000.3/respin/6000.3.5f1-a1ec4b2f2d19' branch; Version is '6000.3.5f2 (3fa8bc678cb0) revision 4171964'; Using compiler version '194234433'; Build Type 'Release'
+2026-03-03T12:46:12.818Z|0xc54|OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 16217 MB
+2026-03-03T12:46:12.819Z|0xc54|BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+2026-03-03T12:46:12.819Z|0xc54|System  architecture: x64
+2026-03-03T12:46:12.819Z|0xc54|Process architecture: x64
+2026-03-03T12:46:12.819Z|0xc54|Date: 2026-03-03T12:46:12Z
+2026-03-03T12:46:12.819Z|0x373c|[Licensing::IpcConnector] Successfully connected to: "LicenseClient-MadSkull" at "2026-03-03T12:46:12.8192537Z"
+2026-03-03T12:46:13.062Z|0xc54|
+COMMAND LINE ARGUMENTS:
+2026-03-03T12:46:13.063Z|0xc54|C:\Program Files\Unity\Hub\Editor\6000.3.5f2\Editor\Unity.exe
+2026-03-03T12:46:13.063Z|0xc54|-adb2
+2026-03-03T12:46:13.063Z|0xc54|-batchMode
+2026-03-03T12:46:13.063Z|0xc54|-noUpm
+2026-03-03T12:46:13.063Z|0xc54|-name
+2026-03-03T12:46:13.063Z|0xc54|AssetImportWorker0
+2026-03-03T12:46:13.063Z|0xc54|-projectPath
+2026-03-03T12:46:13.063Z|0xc54|C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_009
+2026-03-03T12:46:13.063Z|0xc54|-logFile
+2026-03-03T12:46:13.063Z|0xc54|Logs/AssetImportWorker0.log
+2026-03-03T12:46:13.063Z|0xc54|-srvPort
+2026-03-03T12:46:13.063Z|0xc54|63736
+2026-03-03T12:46:13.063Z|0xc54|-licensingIpc
+2026-03-03T12:46:13.063Z|0xc54|LicenseClient-MadSkull
+2026-03-03T12:46:13.063Z|0xc54|-job-worker-count
+2026-03-03T12:46:13.063Z|0xc54|3
+2026-03-03T12:46:13.063Z|0xc54|-background-job-worker-count
+2026-03-03T12:46:13.063Z|0xc54|8
+2026-03-03T12:46:13.063Z|0xc54|-gc-helper-count
+2026-03-03T12:46:13.063Z|0xc54|1
+2026-03-03T12:46:13.063Z|0xc54|-name
+2026-03-03T12:46:13.063Z|0xc54|AssetImport
+2026-03-03T12:46:13.064Z|0xc54|Successfully changed project path to: C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_009
+2026-03-03T12:46:13.067Z|0xc54|C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_009
+2026-03-03T12:46:13.068Z|0xc54|[UnityMemory] Configuration Parameters - Can be set up in boot.config
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-audio-worker=65536"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-gfx=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-allocator-temp-initial-block-size-main=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-background-worker=32768"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-job-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-preload-manager=33554432"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-bucket-allocator-granularity=16"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-bucket-allocator-bucket-count=8"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-bucket-allocator-block-size=33554432"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-bucket-allocator-block-count=8"
+2026-03-03T12:46:13.068Z|0xc54|    "memorysetup-main-allocator-block-size=16777216"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-thread-allocator-block-size=16777216"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-gfx-main-allocator-block-size=16777216"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-gfx-thread-allocator-block-size=16777216"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-cache-allocator-block-size=4194304"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-typetree-allocator-block-size=2097152"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-profiler-bucket-allocator-granularity=16"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-profiler-bucket-allocator-block-count=8"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-profiler-allocator-block-size=16777216"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-profiler-editor-allocator-block-size=1048576"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-temp-allocator-size-main=16777216"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-job-temp-allocator-block-size=2097152"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-job-temp-allocator-block-size-background=1048576"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2026-03-03T12:46:13.069Z|0xc54|    "memorysetup-temp-allocator-size-cloud-worker=32768"
+2026-03-03T12:46:13.087Z|0xc54|Player connection [3156]  Target information:
+
+2026-03-03T12:46:13.087Z|0xc54|Player connection [3156]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 924842191 [EditorId] 924842191 [Version] 1048832 [Id] WindowsEditor(7,Tablet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2026-03-03T12:46:13.087Z|0xc54|Player connection [3156]  * "[IP] 192.168.0.50 [Port] 0 [Flags] 2 [Guid] 924842191 [EditorId] 924842191 [Version] 1048832 [Id] WindowsEditor(7,Tablet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2026-03-03T12:46:13.093Z|0xc54|Player connection [3156] Host joined multi-casting on [225.0.0.222:54997]...
+2026-03-03T12:46:13.093Z|0xc54|Player connection [3156] Host joined alternative multi-casting on [225.0.0.222:34997]...
+2026-03-03T12:46:13.094Z|0xc54|JobSystem: Creating JobQueue using job-worker-count value 3
+2026-03-03T12:46:13.109Z|0xc54|Input System module state changed to: Initialized.
+2026-03-03T12:46:13.116Z|0xc54|[Physics::Module] Initialized fallback backend.
+2026-03-03T12:46:13.116Z|0xc54|[Physics::Module] Id: 0xdecafbad
+2026-03-03T12:46:13.236Z|0xc54|Library Redirect Path: Library/
+2026-03-03T12:46:13.328Z|0xc54|[Physics::Module] Selected backend.
+2026-03-03T12:46:13.328Z|0xc54|[Physics::Module] Name: PhysX
+2026-03-03T12:46:13.328Z|0xc54|[Physics::Module] Id: 0xf2b8ea05
+2026-03-03T12:46:13.328Z|0xc54|[Physics::Module] SDK Version: 4.1.2
+2026-03-03T12:46:13.328Z|0xc54|[Physics::Module] Integration Version: 1.0.0
+2026-03-03T12:46:13.329Z|0xc54|[Physics::Module] Threading Mode: Multi-Threaded
+2026-03-03T12:46:13.352Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:46:13.352Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:46:13.352Z|0xc54|Initialize engine version: 6000.3.5f2 (3fa8bc678cb0)
+2026-03-03T12:46:13.353Z|0xc54|[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Resources/UnitySubsystems
+2026-03-03T12:46:13.353Z|0xc54|[Subsystems] Discovering subsystems at path C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_009/Assets
+2026-03-03T12:46:13.353Z|0xc54|GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+2026-03-03T12:46:13.726Z|0xc54|Direct3D:
+2026-03-03T12:46:13.726Z|0xc54|    Version:  Direct3D 11.0 [level 11.1]
+2026-03-03T12:46:13.726Z|0xc54|    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+2026-03-03T12:46:13.726Z|0xc54|    Vendor:   Intel
+2026-03-03T12:46:13.726Z|0xc54|    VRAM:     8108 MB
+2026-03-03T12:46:13.726Z|0xc54|    Driver:   32.0.101.6737
+2026-03-03T12:46:14.720Z|0xc54|Initialize mono
+2026-03-03T12:46:14.721Z|0xc54|Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed'
+2026-03-03T12:46:14.721Z|0xc54|Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+2026-03-03T12:46:14.721Z|0xc54|Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/MonoBleedingEdge/etc'
+2026-03-03T12:46:14.721Z|0xc54|Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+2026-03-03T12:46:15.067Z|0xc54|Begin MonoManager ReloadAssembly
+2026-03-03T12:46:17.792Z|0xc54|Registering precompiled unity dll's ...
+2026-03-03T12:46:17.798Z|0xc54|Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+2026-03-03T12:46:17.804Z|0xc54|Registered in 0.012562 seconds.
+2026-03-03T12:46:18.618Z|0x373c|[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              3f739665211846c897593dbbc5e7142b
+  Correlation Id:          e69b2ef9561580ffd3151ca785437a08
+  External correlation Id: 8812462370755367420
+  Machine Id:              bdvT09MRoUrRaA8Laq6SKK9oS9Y=
+2026-03-03T12:46:18.619Z|0x373c|[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-MadSkull" (connect: 0.00s, validation: 0.00s, handshake: 5.80s)
+2026-03-03T12:46:18.619Z|0x373c|[Licensing::IpcConnector] Successfully connected to: "LicenseClient-MadSkull-notifications" at "2026-03-03T12:46:18.6191805Z"
+2026-03-03T12:46:18.619Z|0x373c|[Licensing::Module] Licensing Background thread has ended after 5.80s
+2026-03-03T12:46:18.863Z|0xc54|- Loaded All Assemblies, in  3.796 seconds
+2026-03-03T12:46:19.067Z|0xc54|Native extension for WindowsStandalone target not found
+2026-03-03T12:46:19.996Z|0xc54|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T12:46:20.105Z|0xc54|- Finished resetting the current domain, in  1.242 seconds
+2026-03-03T12:46:20.107Z|0xc54|Domain Reload Profiling: 4988ms
+	BeginReloadAssembly (2173ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (265ms)
+	RebuildNativeTypeToScriptingClass (97ms)
+	initialDomainReloadingComplete (384ms)
+	LoadAllAssembliesAndSetupDomain (825ms)
+		LoadAssemblies (2137ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (810ms)
+			TypeCache.Refresh (806ms)
+				TypeCache.ScanAssembly (760ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1244ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1131ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (135ms)
+			SetLoadedEditorAssemblies (15ms)
+			BeforeProcessingInitializeOnLoad (345ms)
+			ProcessInitializeOnLoadAttributes (419ms)
+			ProcessInitializeOnLoadMethodAttributes (217ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+2026-03-03T12:46:20.288Z|0xc54|========================================================================
+2026-03-03T12:46:20.288Z|0xc54|Worker process is ready to serve import requests
+2026-03-03T12:46:20.291Z|0xc54|Import Worker Mode flag is 0x00
+2026-03-03T12:46:20.387Z|0xc54|Begin MonoManager ReloadAssembly
+2026-03-03T12:46:20.393Z|0xc54|[Licensing::Client] Successfully resolved entitlement details
+2026-03-03T12:46:20.393Z|0xc54|[Licensing::Module] License group:
+  Id: 28307-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+2026-03-03T12:46:21.229Z|0xc54|- Loaded All Assemblies, in  0.842 seconds
+2026-03-03T12:46:21.661Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:46:21.848Z|0xc54|Native extension for WindowsStandalone target not found
+2026-03-03T12:46:22.718Z|0xc54|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T12:46:22.868Z|0xc54|- Finished resetting the current domain, in  1.207 seconds
+2026-03-03T12:46:22.869Z|0xc54|Domain Reload Profiling: 2025ms
+	BeginReloadAssembly (565ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (101ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (90ms)
+	LoadAllAssembliesAndSetupDomain (31ms)
+		LoadAssemblies (365ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (5ms)
+			BuildScriptInfoCaches (2ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1208ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (964ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (447ms)
+			ProcessInitializeOnLoadAttributes (360ms)
+			ProcessInitializeOnLoadMethodAttributes (97ms)
+			AfterProcessingInitializeOnLoad (44ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+2026-03-03T12:46:22.954Z|0xc54|Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+2026-03-03T12:46:23.015Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:46:23.015Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:46:23.017Z|0x328|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T12:46:23.026Z|0xc54|Unloading 73 unused Assets / (28.4 KB). Loaded Objects now: 663.
+Memory consumption went from 63.0 MB to 63.0 MB.
+2026-03-03T12:46:23.026Z|0xc54|Total: 8.900000 ms (FindLiveObjects: 0.067300 ms CreateObjectMapping: 0.049200 ms MarkObjects: 8.609400 ms  DeleteObjects: 0.171700 ms)
+
+2026-03-03T12:46:23.027Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 12180.528326 seconds.
+  path: Assets/Scripts/HWR/Commands/Commands.cs
+  artifactKey: Guid(a2e6ed141fb18f84c8be9aee5cc66ecc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:46:23.027Z|0xc54|Start importing Assets/Scripts/HWR/Commands/Commands.cs using Guid(a2e6ed141fb18f84c8be9aee5cc66ecc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'deafdc2aacb4e144ac572b07bb41412a') in 0.2206346 seconds
+2026-03-03T12:46:23.249Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:46:23.249Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Scripts/HWR/Core/SimulationRunner.cs
+  artifactKey: Guid(4275e0089b0ea024295471d061685347) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:46:23.249Z|0xc54|Start importing Assets/Scripts/HWR/Core/SimulationRunner.cs using Guid(4275e0089b0ea024295471d061685347) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd5994169d913dedc2f44fdfd4cae137d') in 0.0095518 seconds
+2026-03-03T12:46:23.261Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:46:23.261Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Scripts/HWR/Commands/CommandProcessor.cs
+  artifactKey: Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:46:23.261Z|0xc54|Start importing Assets/Scripts/HWR/Commands/CommandProcessor.cs using Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd3c53c3935f456322f178cdf6b3c9bfb') in 0.0106882 seconds
+2026-03-03T12:46:23.273Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:47:59.817Z|0xc54|========================================================================
+2026-03-03T12:47:59.817Z|0xc54|Received Prepare
+2026-03-03T12:47:59.868Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:47:59.868Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:47:59.868Z|0x328|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T12:47:59.879Z|0xc54|Unloading 71 unused Assets / (1.0 KB). Loaded Objects now: 665.
+Memory consumption went from 63.8 MB to 63.8 MB.
+2026-03-03T12:47:59.879Z|0xc54|Total: 10.457800 ms (FindLiveObjects: 0.088300 ms CreateObjectMapping: 0.014600 ms MarkObjects: 10.299200 ms  DeleteObjects: 0.053700 ms)
+
+2026-03-03T12:47:59.879Z|0xc54|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T12:48:00.927Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 97.654060 seconds.
+  path: Assets/Scripts/HWR/Core/RtsTypes.cs
+  artifactKey: Guid(dc94ad0faf99bac438a7dac004af64c1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:48:00.927Z|0xc54|Start importing Assets/Scripts/HWR/Core/RtsTypes.cs using Guid(dc94ad0faf99bac438a7dac004af64c1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '80eaf66cf4b4977494c13c900cad4819') in 0.007446 seconds
+2026-03-03T12:48:00.935Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:49:58.197Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 117.262287 seconds.
+  path: Assets/Scripts/HWR/Commands/CommandProcessor.cs
+  artifactKey: Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2026-03-03T12:49:58.198Z|0xc54|Start importing Assets/Scripts/HWR/Commands/CommandProcessor.cs using Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ad49fa181531179cf46e479c046cd00') in 0.0014255 seconds
+2026-03-03T12:49:58.199Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:52:48.548Z|0xc54|========================================================================
+2026-03-03T12:52:48.548Z|0xc54|Received Prepare
+2026-03-03T12:52:48.739Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:52:48.739Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:52:48.740Z|0x328|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T12:52:48.753Z|0xc54|Unloading 506 unused Assets / (48.4 KB). Loaded Objects now: 1099.
+Memory consumption went from 65.6 MB to 65.5 MB.
+2026-03-03T12:52:48.753Z|0xc54|Total: 13.493100 ms (FindLiveObjects: 0.265700 ms CreateObjectMapping: 0.155500 ms MarkObjects: 12.795200 ms  DeleteObjects: 0.274100 ms)
+
+2026-03-03T12:52:48.753Z|0xc54|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T12:57:26.700Z|0xc54|========================================================================
+2026-03-03T12:57:26.700Z|0xc54|Received Prepare
+2026-03-03T12:57:26.754Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:57:26.754Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:57:26.755Z|0x328|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T12:57:26.766Z|0xc54|Unloading 506 unused Assets / (15.5 KB). Loaded Objects now: 1099.
+Memory consumption went from 65.6 MB to 65.6 MB.
+2026-03-03T12:57:26.766Z|0xc54|Total: 11.401000 ms (FindLiveObjects: 0.139800 ms CreateObjectMapping: 0.046500 ms MarkObjects: 11.013700 ms  DeleteObjects: 0.198700 ms)
+
+2026-03-03T12:57:26.766Z|0xc54|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T12:57:26.787Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 448.588262 seconds.
+  path: Assets/Scripts/HWR/Commands/CommandProcessor.cs
+  artifactKey: Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2026-03-03T12:57:26.788Z|0xc54|Start importing Assets/Scripts/HWR/Commands/CommandProcessor.cs using Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1261d7cc06041fc476e9d264c7a2006') in 0.0018545 seconds
+2026-03-03T12:57:26.790Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:57:27.702Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 0.912030 seconds.
+  path: Assets/Scripts/HWR/Simulation/WorldModel.cs
+  artifactKey: Guid(cf761727a9b658845b265eadc37186f7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:57:27.702Z|0xc54|Start importing Assets/Scripts/HWR/Simulation/WorldModel.cs using Guid(cf761727a9b658845b265eadc37186f7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6e00780bfa4608d4c299648e95035914') in 0.0075202 seconds
+2026-03-03T12:57:27.711Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:57:27.711Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/HWR/Commands/Commands.cs
+  artifactKey: Guid(a2e6ed141fb18f84c8be9aee5cc66ecc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:57:27.711Z|0xc54|Start importing Assets/Scripts/HWR/Commands/Commands.cs using Guid(a2e6ed141fb18f84c8be9aee5cc66ecc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '58c95b97e02e5baa229c60fc9d7a2c96') in 0.0064358 seconds
+2026-03-03T12:57:27.718Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:57:27.718Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Scripts/HWR/Simulation/MovementSystem.cs
+  artifactKey: Guid(528d147c3cdf46e48ac236e453945f69) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T12:57:27.718Z|0xc54|Start importing Assets/Scripts/HWR/Simulation/MovementSystem.cs using Guid(528d147c3cdf46e48ac236e453945f69) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ef590274ce71d742f4849bade9466d8f') in 0.0088314 seconds
+2026-03-03T12:57:27.728Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:58:45.608Z|0xc54|========================================================================
+2026-03-03T12:58:45.608Z|0xc54|Received Prepare
+2026-03-03T12:58:45.746Z|0xc54|Begin MonoManager ReloadAssembly
+2026-03-03T12:58:45.751Z|0xc54|[Licensing::Client] Successfully resolved entitlement details
+2026-03-03T12:58:46.782Z|0xc54|- Loaded All Assemblies, in  1.036 seconds
+2026-03-03T12:58:47.040Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.104Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.105Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.106Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.107Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:58:47.206Z|0xc54|Native extension for WindowsStandalone target not found
+2026-03-03T12:58:48.020Z|0xc54|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T12:58:48.140Z|0xc54|- Finished resetting the current domain, in  1.101 seconds
+2026-03-03T12:58:48.142Z|0xc54|Domain Reload Profiling: 2117ms
+	BeginReloadAssembly (453ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (87ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (361ms)
+		LoadAssemblies (571ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (73ms)
+			TypeCache.Refresh (55ms)
+				TypeCache.ScanAssembly (32ms)
+			BuildScriptInfoCaches (12ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1102ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (887ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (13ms)
+			BeforeProcessingInitializeOnLoad (432ms)
+			ProcessInitializeOnLoadAttributes (300ms)
+			ProcessInitializeOnLoadMethodAttributes (101ms)
+			AfterProcessingInitializeOnLoad (37ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+2026-03-03T12:58:48.187Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:58:48.187Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:58:48.188Z|0x6d0c|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T12:58:48.197Z|0xc54|Unloading 506 unused Assets / (71.2 KB). Loaded Objects now: 1101.
+Memory consumption went from 66.4 MB to 66.4 MB.
+2026-03-03T12:58:48.197Z|0xc54|Total: 8.578900 ms (FindLiveObjects: 0.213400 ms CreateObjectMapping: 0.079300 ms MarkObjects: 8.085700 ms  DeleteObjects: 0.198700 ms)
+
+2026-03-03T12:58:48.197Z|0xc54|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T12:58:48.198Z|0xc54|========================================================================
+Received Import Request.
+  Time since last request: 80.470230 seconds.
+  path: Assets/Scripts/HWR/Commands/CommandProcessor.cs
+  artifactKey: Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+2026-03-03T12:58:48.198Z|0xc54|Start importing Assets/Scripts/HWR/Commands/CommandProcessor.cs using Guid(04d04e3c0fc17f346a9d5c85a866691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '010732c3fa0b5a3b6513c57b6f521294') in 0.00361 seconds
+2026-03-03T12:58:48.202Z|0xc54|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T12:59:08.581Z|0xc54|========================================================================
+2026-03-03T12:59:08.581Z|0xc54|Received Prepare
+2026-03-03T12:59:08.717Z|0xc54|Begin MonoManager ReloadAssembly
+2026-03-03T12:59:09.552Z|0xc54|- Loaded All Assemblies, in  0.835 seconds
+2026-03-03T12:59:09.804Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.918Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.919Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.920Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.921Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.922Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:09.923Z|0xc54|Assertion failed on expression: 'pred(*previous, *i)'
+2026-03-03T12:59:10.040Z|0xc54|Native extension for WindowsStandalone target not found
+2026-03-03T12:59:11.116Z|0xc54|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T12:59:11.307Z|0xc54|- Finished resetting the current domain, in  1.503 seconds
+2026-03-03T12:59:11.308Z|0xc54|Domain Reload Profiling: 2322ms
+	BeginReloadAssembly (378ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (77ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (83ms)
+	LoadAllAssembliesAndSetupDomain (249ms)
+		LoadAssemblies (456ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (33ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (23ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1504ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1193ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (431ms)
+			ProcessInitializeOnLoadAttributes (528ms)
+			ProcessInitializeOnLoadMethodAttributes (157ms)
+			AfterProcessingInitializeOnLoad (61ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+2026-03-03T12:59:11.365Z|0xc54|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T12:59:11.365Z|0xc54|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T12:59:11.366Z|0x3768|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T12:59:11.373Z|0xc54|Unloading 506 unused Assets / (30.6 KB). Loaded Objects now: 1101.
+Memory consumption went from 66.8 MB to 66.7 MB.
+2026-03-03T12:59:11.374Z|0xc54|Total: 7.142200 ms (FindLiveObjects: 0.137000 ms CreateObjectMapping: 0.052300 ms MarkObjects: 6.795200 ms  DeleteObjects: 0.155600 ms)
+
+2026-03-03T12:59:11.374Z|0xc54|Prepare: number of updated asset objects reloaded= 0

@@ -1,0 +1,89 @@
+{
+  "source_query": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=astronaut%20portrait&gsrnamespace=6&gsrlimit=80&prop=imageinfo&iiprop=url|extmetadata|mime&iiurlwidth=600&format=json",
+  "selected_online": [
+    {
+      "title": "File:Alan Bean NASA portrait (S69-38859).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Alan_Bean_NASA_portrait_(S69-38859).jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alan_Bean_NASA_portrait_%28S69-38859%29.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Bean_NASA_portrait_%28S69-38859%29.jpg/960px-Alan_Bean_NASA_portrait_%28S69-38859%29.jpg",
+      "license": "Public domain",
+      "artist": "NASA / Johnson Space Center (NASA-JSC)",
+      "localFile": "Assets/Resources/OnlineRefs/online_ref_01.png"
+    },
+    {
+      "title": "File:Andrew M. Allen - Official portrait of 1987 astronaut candidate.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Andrew_M._Allen_-_Official_portrait_of_1987_astronaut_candidate.jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Andrew_M._Allen_-_Official_portrait_of_1987_astronaut_candidate.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Andrew_M._Allen_-_Official_portrait_of_1987_astronaut_candidate.jpg/960px-Andrew_M._Allen_-_Official_portrait_of_1987_astronaut_candidate.jpg",
+      "license": "Public domain",
+      "artist": "NASA",
+      "localFile": "Assets/Resources/OnlineRefs/online_ref_02.png"
+    },
+    {
+      "title": "File:Andy Thomas - Astronaut Candidate Portrait.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Andy_Thomas_-_Astronaut_Candidate_Portrait.jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Andy_Thomas_-_Astronaut_Candidate_Portrait.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Andy_Thomas_-_Astronaut_Candidate_Portrait.jpg/960px-Andy_Thomas_-_Astronaut_Candidate_Portrait.jpg",
+      "license": "Public domain",
+      "artist": "NASA",
+      "localFile": "Assets/Resources/OnlineRefs/online_ref_03.png"
+    },
+    {
+      "title": "File:Astronaut John W. Young (1971).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_John_W._Young_(1971).jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Astronaut_John_W._Young_%281971%29.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Astronaut_John_W._Young_%281971%29.jpg/960px-Astronaut_John_W._Young_%281971%29.jpg",
+      "license": "Public domain",
+      "artist": "NASA"
+    },
+    {
+      "title": "File:Astronaut John Young official portrait.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_John_Young_official_portrait.jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Astronaut_John_Young_official_portrait.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Astronaut_John_Young_official_portrait.jpg/960px-Astronaut_John_Young_official_portrait.jpg",
+      "license": "Public domain",
+      "artist": "NASA"
+    },
+    {
+      "title": "File:Astronaut Joseph Kerwin portrait (cropped).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_Joseph_Kerwin_portrait_(cropped).jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Astronaut_Joseph_Kerwin_portrait_%28cropped%29.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Astronaut_Joseph_Kerwin_portrait_%28cropped%29.jpg/960px-Astronaut_Joseph_Kerwin_portrait_%28cropped%29.jpg",
+      "license": "Public domain",
+      "artist": "NASA"
+    },
+    {
+      "title": "File:Astronaut Joseph Kerwin portrait (croppedlandscape).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_Joseph_Kerwin_portrait_(croppedlandscape).jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Astronaut_Joseph_Kerwin_portrait_%28croppedlandscape%29.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Astronaut_Joseph_Kerwin_portrait_%28croppedlandscape%29.jpg/960px-Astronaut_Joseph_Kerwin_portrait_%28croppedlandscape%29.jpg",
+      "license": "Public domain",
+      "artist": "NASA"
+    },
+    {
+      "title": "File:Brent W. Jett - Official Astronaut Portrait.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Brent_W._Jett_-_Official_Astronaut_Portrait.jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Brent_W._Jett_-_Official_Astronaut_Portrait.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Brent_W._Jett_-_Official_Astronaut_Portrait.jpg/960px-Brent_W._Jett_-_Official_Astronaut_Portrait.jpg",
+      "license": "Public domain",
+      "artist": "NASA"
+    },
+    {
+      "title": "File:Chris Cassidy - Official NASA Astronaut Portrait in EMU (cropped).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU_(cropped).jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU_%28cropped%29.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU_%28cropped%29.jpg/960px-Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU_%28cropped%29.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117448640\" class=\"extiw\" title=\"d:Q117448640\"><span title=\"NASA photographer\">Josh Valcarcel</span></a></bdi>"
+    },
+    {
+      "title": "File:Chris Cassidy - Official NASA Astronaut Portrait in EMU.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU.jpg",
+      "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU.jpg",
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU.jpg/960px-Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117448640\" class=\"extiw\" title=\"d:Q117448640\"><span title=\"NASA photographer\">Josh Valcarcel</span></a></bdi>"
+    }
+  ],
+  "generated": []
+}

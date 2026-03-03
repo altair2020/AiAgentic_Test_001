@@ -1,0 +1,522 @@
+2026-03-03T11:41:32.903Z|0x539c|[Licensing::Module] Trying to connect to existing licensing client channel...
+2026-03-03T11:41:32.903Z|0x30d8|Built from '6000.3/respin/6000.3.5f1-a1ec4b2f2d19' branch; Version is '6000.3.5f2 (3fa8bc678cb0) revision 4171964'; Using compiler version '194234433'; Build Type 'Release'
+2026-03-03T11:41:32.903Z|0x30d8|OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 16217 MB
+2026-03-03T11:41:32.903Z|0x539c|[Licensing::IpcConnector] Successfully connected to: "LicenseClient-MadSkull" at "2026-03-03T11:41:32.9033173Z"
+2026-03-03T11:41:32.903Z|0x30d8|BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+2026-03-03T11:41:32.903Z|0x30d8|System  architecture: x64
+2026-03-03T11:41:32.903Z|0x30d8|Process architecture: x64
+2026-03-03T11:41:32.903Z|0x30d8|Date: 2026-03-03T11:41:32Z
+2026-03-03T11:41:33.074Z|0x30d8|
+COMMAND LINE ARGUMENTS:
+2026-03-03T11:41:33.074Z|0x30d8|C:\Program Files\Unity\Hub\Editor\6000.3.5f2\Editor\Unity.exe
+2026-03-03T11:41:33.074Z|0x30d8|-adb2
+2026-03-03T11:41:33.074Z|0x30d8|-batchMode
+2026-03-03T11:41:33.074Z|0x30d8|-noUpm
+2026-03-03T11:41:33.074Z|0x30d8|-name
+2026-03-03T11:41:33.074Z|0x30d8|AssetImportWorker1
+2026-03-03T11:41:33.074Z|0x30d8|-projectPath
+2026-03-03T11:41:33.074Z|0x30d8|C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_003
+2026-03-03T11:41:33.074Z|0x30d8|-logFile
+2026-03-03T11:41:33.074Z|0x30d8|Logs/AssetImportWorker1.log
+2026-03-03T11:41:33.074Z|0x30d8|-srvPort
+2026-03-03T11:41:33.074Z|0x30d8|61757
+2026-03-03T11:41:33.074Z|0x30d8|-licensingIpc
+2026-03-03T11:41:33.074Z|0x30d8|LicenseClient-MadSkull
+2026-03-03T11:41:33.074Z|0x30d8|-job-worker-count
+2026-03-03T11:41:33.074Z|0x30d8|3
+2026-03-03T11:41:33.074Z|0x30d8|-background-job-worker-count
+2026-03-03T11:41:33.074Z|0x30d8|8
+2026-03-03T11:41:33.074Z|0x30d8|-gc-helper-count
+2026-03-03T11:41:33.074Z|0x30d8|1
+2026-03-03T11:41:33.074Z|0x30d8|-name
+2026-03-03T11:41:33.074Z|0x30d8|AssetImport
+2026-03-03T11:41:33.075Z|0x30d8|Successfully changed project path to: C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_003
+2026-03-03T11:41:33.076Z|0x30d8|C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_003
+2026-03-03T11:41:33.077Z|0x30d8|[UnityMemory] Configuration Parameters - Can be set up in boot.config
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-audio-worker=65536"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-gfx=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-allocator-temp-initial-block-size-main=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-background-worker=32768"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-job-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-preload-manager=33554432"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-bucket-allocator-granularity=16"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-bucket-allocator-bucket-count=8"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-bucket-allocator-block-size=33554432"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-bucket-allocator-block-count=8"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-main-allocator-block-size=16777216"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-thread-allocator-block-size=16777216"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-gfx-main-allocator-block-size=16777216"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-gfx-thread-allocator-block-size=16777216"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-cache-allocator-block-size=4194304"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-typetree-allocator-block-size=2097152"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-profiler-bucket-allocator-granularity=16"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-profiler-bucket-allocator-block-count=8"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-profiler-allocator-block-size=16777216"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-profiler-editor-allocator-block-size=1048576"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-main=16777216"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-job-temp-allocator-block-size=2097152"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-job-temp-allocator-block-size-background=1048576"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2026-03-03T11:41:33.077Z|0x30d8|    "memorysetup-temp-allocator-size-cloud-worker=32768"
+2026-03-03T11:41:33.090Z|0x30d8|Player connection [12504]  Target information:
+
+2026-03-03T11:41:33.090Z|0x30d8|Player connection [12504]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 3563461366 [EditorId] 3563461366 [Version] 1048832 [Id] WindowsEditor(7,Tablet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2026-03-03T11:41:33.090Z|0x30d8|Player connection [12504]  * "[IP] 192.168.0.50 [Port] 0 [Flags] 2 [Guid] 3563461366 [EditorId] 3563461366 [Version] 1048832 [Id] WindowsEditor(7,Tablet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+2026-03-03T11:41:33.093Z|0x30d8|Player connection [12504] Host joined multi-casting on [225.0.0.222:54997]...
+2026-03-03T11:41:33.093Z|0x30d8|Player connection [12504] Host joined alternative multi-casting on [225.0.0.222:34997]...
+2026-03-03T11:41:33.093Z|0x30d8|JobSystem: Creating JobQueue using job-worker-count value 3
+2026-03-03T11:41:33.100Z|0x30d8|Input System module state changed to: Initialized.
+2026-03-03T11:41:33.102Z|0x30d8|[Physics::Module] Initialized fallback backend.
+2026-03-03T11:41:33.102Z|0x30d8|[Physics::Module] Id: 0xdecafbad
+2026-03-03T11:41:33.171Z|0x30d8|Library Redirect Path: Library/
+2026-03-03T11:41:33.193Z|0x30d8|[Physics::Module] Selected backend.
+2026-03-03T11:41:33.194Z|0x30d8|[Physics::Module] Name: PhysX
+2026-03-03T11:41:33.194Z|0x30d8|[Physics::Module] Id: 0xf2b8ea05
+2026-03-03T11:41:33.194Z|0x30d8|[Physics::Module] SDK Version: 4.1.2
+2026-03-03T11:41:33.194Z|0x30d8|[Physics::Module] Integration Version: 1.0.0
+2026-03-03T11:41:33.194Z|0x30d8|[Physics::Module] Threading Mode: Multi-Threaded
+2026-03-03T11:41:33.204Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:41:33.204Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:41:33.204Z|0x30d8|Initialize engine version: 6000.3.5f2 (3fa8bc678cb0)
+2026-03-03T11:41:33.204Z|0x30d8|[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Resources/UnitySubsystems
+2026-03-03T11:41:33.204Z|0x30d8|[Subsystems] Discovering subsystems at path C:/_Dev/AiAgentic/AiAgentic_Test_001/output/example_003/Assets
+2026-03-03T11:41:33.205Z|0x30d8|GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+2026-03-03T11:41:33.328Z|0x30d8|Direct3D:
+2026-03-03T11:41:33.328Z|0x30d8|    Version:  Direct3D 11.0 [level 11.1]
+2026-03-03T11:41:33.328Z|0x30d8|    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+2026-03-03T11:41:33.328Z|0x30d8|    Vendor:   Intel
+2026-03-03T11:41:33.328Z|0x30d8|    VRAM:     8108 MB
+2026-03-03T11:41:33.328Z|0x30d8|    Driver:   32.0.101.6737
+2026-03-03T11:41:33.390Z|0x30d8|Initialize mono
+2026-03-03T11:41:33.390Z|0x30d8|Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed'
+2026-03-03T11:41:33.390Z|0x30d8|Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+2026-03-03T11:41:33.390Z|0x30d8|Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/MonoBleedingEdge/etc'
+2026-03-03T11:41:33.390Z|0x30d8|Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+2026-03-03T11:41:33.473Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:41:33.804Z|0x30d8|Registering precompiled unity dll's ...
+2026-03-03T11:41:33.806Z|0x30d8|Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+2026-03-03T11:41:33.809Z|0x30d8|Registered in 0.005407 seconds.
+2026-03-03T11:41:34.116Z|0x30d8|- Loaded All Assemblies, in  0.644 seconds
+2026-03-03T11:41:34.199Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:41:34.252Z|0x539c|[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              215de0cbc30d4eceb6285d0d86a8ab65
+  Correlation Id:          e69b2ef9561580ffd3151ca785437a08
+  External correlation Id: 1481330532659782371
+  Machine Id:              bdvT09MRoUrRaA8Laq6SKK9oS9Y=
+2026-03-03T11:41:34.252Z|0x539c|[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-MadSkull" (connect: 0.00s, validation: 0.00s, handshake: 1.35s)
+2026-03-03T11:41:34.252Z|0x539c|[Licensing::IpcConnector] Successfully connected to: "LicenseClient-MadSkull-notifications" at "2026-03-03T11:41:34.2526319Z"
+2026-03-03T11:41:34.252Z|0x539c|[Licensing::Module] Licensing Background thread has ended after 1.35s
+2026-03-03T11:41:34.614Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:41:34.657Z|0x30d8|- Finished resetting the current domain, in  0.540 seconds
+2026-03-03T11:41:34.657Z|0x30d8|Domain Reload Profiling: 1172ms
+	BeginReloadAssembly (232ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (77ms)
+	LoadAllAssembliesAndSetupDomain (248ms)
+		LoadAssemblies (219ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (244ms)
+			TypeCache.Refresh (241ms)
+				TypeCache.ScanAssembly (225ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (541ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (500ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (61ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (208ms)
+			ProcessInitializeOnLoadMethodAttributes (99ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+2026-03-03T11:41:34.729Z|0x30d8|========================================================================
+2026-03-03T11:41:34.729Z|0x30d8|Worker process is ready to serve import requests
+2026-03-03T11:41:34.731Z|0x30d8|Import Worker Mode flag is 0x00
+2026-03-03T11:41:34.776Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:41:34.779Z|0x30d8|[Licensing::Client] Successfully resolved entitlement details
+2026-03-03T11:41:34.779Z|0x30d8|[Licensing::Module] License group:
+  Id: 28307-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+2026-03-03T11:41:35.224Z|0x30d8|- Loaded All Assemblies, in  0.448 seconds
+2026-03-03T11:41:35.332Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:41:35.411Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:41:35.693Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:41:35.756Z|0x30d8|- Finished resetting the current domain, in  0.424 seconds
+2026-03-03T11:41:35.757Z|0x30d8|Domain Reload Profiling: 864ms
+	BeginReloadAssembly (319ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (16ms)
+		LoadAssemblies (191ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (424ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (316ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (124ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+2026-03-03T11:41:35.794Z|0x30d8|Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+2026-03-03T11:41:35.819Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:41:35.819Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:41:35.820Z|0x5440|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T11:41:35.826Z|0x30d8|Unloading 8 unused Assets / (27.4 KB). Loaded Objects now: 598.
+Memory consumption went from 62.6 MB to 62.5 MB.
+2026-03-03T11:41:35.826Z|0x30d8|Total: 5.910900 ms (FindLiveObjects: 0.044200 ms CreateObjectMapping: 0.010800 ms MarkObjects: 5.780000 ms  DeleteObjects: 0.074300 ms)
+
+2026-03-03T11:41:35.826Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 8293.327709 seconds.
+  path: Assets/Resources/Sprites/building_tile.png
+  artifactKey: Guid(438e6ec5a4e08d24582583d1bffcd8ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:35.826Z|0x30d8|Start importing Assets/Resources/Sprites/building_tile.png using Guid(438e6ec5a4e08d24582583d1bffcd8ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5bc2ea5c4385342408679cc0585cca57') in 0.1548691 seconds
+2026-03-03T11:41:35.981Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2026-03-03T11:41:35.982Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Resources/Sprites/traffic_car.png
+  artifactKey: Guid(b52a1bd51635eba4290e6b159013323b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:35.982Z|0x30d8|Start importing Assets/Resources/Sprites/traffic_car.png using Guid(b52a1bd51635eba4290e6b159013323b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bc607a77053c18e62f93fb9511599d6e') in 0.0134367 seconds
+2026-03-03T11:41:35.996Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2026-03-03T11:41:35.996Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Resources/Sprites/pickup_cash.png
+  artifactKey: Guid(8c043bd7cecfb1641a30617bebae7a23) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:35.996Z|0x30d8|Start importing Assets/Resources/Sprites/pickup_cash.png using Guid(8c043bd7cecfb1641a30617bebae7a23) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8ddb360545866fab588ea67a40049012') in 0.0097636 seconds
+2026-03-03T11:41:36.006Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2026-03-03T11:41:36.006Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Scripts/TopDownDrive/SceneBootstrapTopDown.cs
+  artifactKey: Guid(3427f587248ef8247921a9a1839bc55e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:36.006Z|0x30d8|Start importing Assets/Scripts/TopDownDrive/SceneBootstrapTopDown.cs using Guid(3427f587248ef8247921a9a1839bc55e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8fbeaf4615c65096909f0dae1c9e97ee') in 0.0098962 seconds
+2026-03-03T11:41:36.016Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T11:41:36.016Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Scripts/TopDownDrive/CameraFollow2D.cs
+  artifactKey: Guid(c0cb78f51fe2de5409c69feee443b9c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:36.016Z|0x30d8|Start importing Assets/Scripts/TopDownDrive/CameraFollow2D.cs using Guid(c0cb78f51fe2de5409c69feee443b9c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8d0e3e81a3e1ce1eec31c6e381e54c42') in 0.0047911 seconds
+2026-03-03T11:41:36.021Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T11:41:36.021Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scripts/TopDownDrive/TopDownGameManager.cs
+  artifactKey: Guid(7343431be1d47df4e868c758437f4394) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:36.021Z|0x30d8|Start importing Assets/Scripts/TopDownDrive/TopDownGameManager.cs using Guid(7343431be1d47df4e868c758437f4394) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f1d7c6a440dc9b25092eca51535a0d07') in 0.0057322 seconds
+2026-03-03T11:41:36.027Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T11:41:36.028Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scripts/TopDownDrive/PickupItem.cs
+  artifactKey: Guid(a8c25ddac53bc034ab93365d555ce55e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:36.028Z|0x30d8|Start importing Assets/Scripts/TopDownDrive/PickupItem.cs using Guid(a8c25ddac53bc034ab93365d555ce55e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '767b4ed79932e8e2ea7f17c5e93b938d') in 0.005582 seconds
+2026-03-03T11:41:36.033Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+2026-03-03T11:41:36.034Z|0x30d8|========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Resources/Sprites/player_car.png
+  artifactKey: Guid(1b10aeaa10ef2bf4380ca3ad08b5f557) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+2026-03-03T11:41:36.034Z|0x30d8|Start importing Assets/Resources/Sprites/player_car.png using Guid(1b10aeaa10ef2bf4380ca3ad08b5f557) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b6f6208365c4a6c2affa8707625f3a80') in 0.0106096 seconds
+2026-03-03T11:41:36.044Z|0x30d8|Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+2026-03-03T11:42:19.491Z|0x30d8|========================================================================
+2026-03-03T11:42:19.491Z|0x30d8|Received Prepare
+2026-03-03T11:42:19.537Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:42:19.913Z|0x30d8|- Loaded All Assemblies, in  0.376 seconds
+2026-03-03T11:42:20.033Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:42:20.115Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:42:20.434Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:42:20.518Z|0x30d8|- Finished resetting the current domain, in  0.485 seconds
+2026-03-03T11:42:20.519Z|0x30d8|Domain Reload Profiling: 847ms
+	BeginReloadAssembly (249ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (12ms)
+		LoadAssemblies (155ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (486ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (370ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (143ms)
+			ProcessInitializeOnLoadAttributes (141ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (25ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+2026-03-03T11:42:20.539Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:42:20.539Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:42:20.539Z|0x54fc|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T11:42:20.544Z|0x30d8|Unloading 6 unused Assets / (0 B). Loaded Objects now: 600.
+Memory consumption went from 62.9 MB to 62.9 MB.
+2026-03-03T11:42:20.544Z|0x30d8|Total: 4.266800 ms (FindLiveObjects: 0.044600 ms CreateObjectMapping: 0.006700 ms MarkObjects: 4.194300 ms  DeleteObjects: 0.019200 ms)
+
+2026-03-03T11:42:20.544Z|0x30d8|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T11:49:07.228Z|0x30d8|========================================================================
+2026-03-03T11:49:07.228Z|0x30d8|Received Prepare
+2026-03-03T11:49:07.413Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:49:07.415Z|0x30d8|[Licensing::Client] Successfully resolved entitlement details
+2026-03-03T11:49:07.809Z|0x30d8|- Loaded All Assemblies, in  0.396 seconds
+2026-03-03T11:49:07.964Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:49:08.043Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:49:08.390Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:49:08.455Z|0x30d8|- Finished resetting the current domain, in  0.491 seconds
+2026-03-03T11:49:08.456Z|0x30d8|Domain Reload Profiling: 874ms
+	BeginReloadAssembly (263ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (17ms)
+		LoadAssemblies (175ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (492ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (385ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (155ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+2026-03-03T11:49:08.477Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:49:08.478Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:49:08.478Z|0x6a04|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T11:49:08.483Z|0x30d8|Unloading 60 unused Assets / (1.0 KB). Loaded Objects now: 654.
+Memory consumption went from 63.3 MB to 63.3 MB.
+2026-03-03T11:49:08.483Z|0x30d8|Total: 4.553600 ms (FindLiveObjects: 0.037600 ms CreateObjectMapping: 0.008000 ms MarkObjects: 4.475000 ms  DeleteObjects: 0.031700 ms)
+
+2026-03-03T11:49:08.483Z|0x30d8|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T11:49:14.345Z|0x30d8|========================================================================
+2026-03-03T11:49:14.345Z|0x30d8|Received Prepare
+2026-03-03T11:49:14.418Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:49:14.791Z|0x30d8|- Loaded All Assemblies, in  0.373 seconds
+2026-03-03T11:49:14.946Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:49:15.031Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:49:15.367Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:49:15.444Z|0x30d8|- Finished resetting the current domain, in  0.498 seconds
+2026-03-03T11:49:15.445Z|0x30d8|Domain Reload Profiling: 857ms
+	BeginReloadAssembly (250ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (14ms)
+		LoadAssemblies (158ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (3ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (499ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (377ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (149ms)
+			ProcessInitializeOnLoadAttributes (151ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (22ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+2026-03-03T11:49:15.475Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:49:15.475Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:49:15.476Z|0x6888|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T11:49:15.481Z|0x30d8|Unloading 60 unused Assets / (1.0 KB). Loaded Objects now: 654.
+Memory consumption went from 63.3 MB to 63.3 MB.
+2026-03-03T11:49:15.481Z|0x30d8|Total: 4.367400 ms (FindLiveObjects: 0.057400 ms CreateObjectMapping: 0.008200 ms MarkObjects: 4.269800 ms  DeleteObjects: 0.030200 ms)
+
+2026-03-03T11:49:15.481Z|0x30d8|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T11:49:48.809Z|0x30d8|========================================================================
+2026-03-03T11:49:48.809Z|0x30d8|Received Prepare
+2026-03-03T11:49:48.900Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:49:49.426Z|0x30d8|- Loaded All Assemblies, in  0.526 seconds
+2026-03-03T11:49:49.617Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:49:49.725Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:49:50.149Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:49:50.239Z|0x30d8|- Finished resetting the current domain, in  0.622 seconds
+2026-03-03T11:49:50.240Z|0x30d8|Domain Reload Profiling: 1130ms
+	BeginReloadAssembly (352ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (20ms)
+		LoadAssemblies (236ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (4ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (623ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (481ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (185ms)
+			ProcessInitializeOnLoadAttributes (202ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (31ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+2026-03-03T11:49:50.272Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:49:50.272Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:49:50.273Z|0x57c8|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T11:49:50.278Z|0x30d8|Unloading 60 unused Assets / (1.0 KB). Loaded Objects now: 654.
+Memory consumption went from 63.3 MB to 63.3 MB.
+2026-03-03T11:49:50.278Z|0x30d8|Total: 4.903000 ms (FindLiveObjects: 0.056100 ms CreateObjectMapping: 0.012200 ms MarkObjects: 4.800500 ms  DeleteObjects: 0.032800 ms)
+
+2026-03-03T11:49:50.278Z|0x30d8|Prepare: number of updated asset objects reloaded= 0
+2026-03-03T11:51:03.825Z|0x30d8|========================================================================
+2026-03-03T11:51:03.825Z|0x30d8|Received Prepare
+2026-03-03T11:51:03.898Z|0x30d8|Begin MonoManager ReloadAssembly
+2026-03-03T11:51:03.901Z|0x30d8|[Licensing::Client] Successfully resolved entitlement details
+2026-03-03T11:51:04.281Z|0x30d8|- Loaded All Assemblies, in  0.382 seconds
+2026-03-03T11:51:04.429Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:51:04.513Z|0x30d8|Native extension for WindowsStandalone target not found
+2026-03-03T11:51:04.855Z|0x30d8|ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+2026-03-03T11:51:04.944Z|0x30d8|- Finished resetting the current domain, in  0.515 seconds
+2026-03-03T11:51:04.945Z|0x30d8|Domain Reload Profiling: 884ms
+	BeginReloadAssembly (258ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (19ms)
+		LoadAssemblies (160ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (4ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (516ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (395ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (156ms)
+			ProcessInitializeOnLoadAttributes (150ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (29ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+2026-03-03T11:51:04.975Z|0x30d8|Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+2026-03-03T11:51:04.975Z|0x30d8|Preloading 0 native plugins for Editor in 0.00 ms.
+2026-03-03T11:51:04.976Z|0x695c|Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+2026-03-03T11:51:04.981Z|0x30d8|Unloading 60 unused Assets / (1.0 KB). Loaded Objects now: 654.
+Memory consumption went from 63.3 MB to 63.3 MB.
+2026-03-03T11:51:04.981Z|0x30d8|Total: 5.143000 ms (FindLiveObjects: 0.042700 ms CreateObjectMapping: 0.008500 ms MarkObjects: 5.036200 ms  DeleteObjects: 0.053400 ms)
+
+2026-03-03T11:51:04.981Z|0x30d8|Prepare: number of updated asset objects reloaded= 0
